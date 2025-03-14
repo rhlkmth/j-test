@@ -1,3 +1,4 @@
 streamlit
 pyswisseph==2.8.0.post1
 jyotishyamitra
+git+https://github.com/rhlkmth/jyotishyamitra/blob/master/jyotishyamitra.py
