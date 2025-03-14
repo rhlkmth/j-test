@@ -1,5 +1,5 @@
 import streamlit as st
-import jyotishyamitra as jsm  # Assuming you have the jyotishyamitra library installed and accessible
+import jyotishyamitra
 import json
 
 # Constants for Month Names (assuming these are defined in jyotishyamitra)
